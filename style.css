@@ -19,6 +19,7 @@ a {
   justify-content: space-between;
   padding-left: 2rem;
   padding-right: 2rem;
+  width: 66vw;
 }
 
 .hero {
@@ -40,6 +41,12 @@ a {
   flex-direction: column;
   margin: 0;
   margin-right: 2rem;
+  width: 33vw;
+
+}
+
+.main-image {
+  width: 33vw;
 }
 
 .links {
