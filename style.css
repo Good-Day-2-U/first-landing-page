@@ -186,3 +186,37 @@ a {
   font-style: light italic;
   color: #1F2937;
 }
+
+
+/* Call to action */
+
+.cta-big-div {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.cta {
+  display: flex;
+  background-color: #3882F6;
+  width: 100rem;
+  height: 8rem;
+  justify-content:space-between;
+  align-items: center;
+  
+}
+
+.ctatext {
+  display: flex;
+  flex-direction: column;
+}
+
+.cta-button {
+  width: 6rem;
+  height: 2rem;
+  background-color: #3882F6;
+  border: 5px solid #E5E7EB;
+  color: #E5E7EB;
+}
